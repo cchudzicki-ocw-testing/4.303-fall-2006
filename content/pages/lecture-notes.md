@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides downloadable videos of guest lectures and associated
+  material.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
